@@ -8,3 +8,4 @@ newly created branch for example
 =======
 learning to merge
 >>>>>>> newfeature2
+merging trials
